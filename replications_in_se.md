@@ -3,8 +3,12 @@
 Below we have started to list replications of Software Engineering studies. The list is incomplete. If your replication or replicated paper is missing please do a pull request! Or contact Robert Feldt (google is your friend for his email / contact info :)). Papers are listed in reverse chronological order of original paper, per ROSE Festival in which they were presented (or Other, see below).
 
 # ROSE1 @ ESEC/FSE 2018
+1. ["Easy over hard: A case study on deep learning"](https://arxiv.org/pdf/1703.00133.pdf) by w. Fu and T. Menzies. FSE 2017. Reproduced in:
+	- [" Keep It Simple: Is Deep Learning Good for Linguistic Smell Detection?"](https://sarahfakhoury.com/2018-SANER_RENE-preprint-simple-deep-learning.pdf) by S. Fakhoury, V. Arnaoudova, C. Noiseux,  F. Khomh, G. Antoniol. SANER 2018 (RENE Track).
 
 # ROSE2 @ ICSE 2019
+1. ["Improving Code: The (Mis) perception of Quality Metrics"](https://ieeexplore.ieee.org/abstract/document/8530019) by J. Pantiuchina, M. Lanza, G. Bavota. ICSME 2018. Reproduced in:
+	- [" Improving Source Code Readability: Theory and Practice"](https://sarahfakhoury.com/2019-icpc-readability.pdf) by S. Fakhoury, D. Roy, A. Hassan, V. Arnoudova. ICPC 2019.
 
 1. ["Sentiment Analysis for Software Engineering. How Far Can We Go?"](https://ieeexplore.ieee.org/abstract/document/8453067) by B. Lin, F. Zampetti, G. Bavota, M. D. Penta, M. Lanza, and R. Oliveto. ICSE 2018. Replicated in:
     - ["Adaptive Sentiment Detection for Software Artifacts"](https://giasuddin.github.io/papers/Adaptive_Sentiment_Detection_for_Software_Artifacts.pdf) by G. Uddin, F. Khomh, Y-G. Guéhénuec, and C. K Roy. Unpublished.
